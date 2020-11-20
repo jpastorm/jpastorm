@@ -2,7 +2,6 @@
 
 [![Website](https://img.shields.io/website?label=jpastorm.github.io&style=for-the-badge&url=https%3A%2F%2Fjpastorm.github.io)](https://jpastorm.github.io/)
 
-[![Twitter: jpastorm](https://img.shields.io/twitter/follow/jpastormdev?style=social)](https://twitter.com/jpastormdev)
 [![Linkedin: jpastorm](https://img.shields.io/badge/-jpastorm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jpastorm/)](https://www.linkedin.com/in/jpastorm/)
 [![GitHub jpastorm](https://img.shields.io/github/followers/jpastorm?label=follow&style=social)](https://github.com/jpastorm)
 
