@@ -27,9 +27,9 @@ Software developer, backend developer(GOLANG AND PHP) and systems engineering st
 
 **Main Programming Languages and Development Technologies:**
 <br>
-<code><a href="https://github.com/jpastorm?tab=repositories&language=HTML"><img height="40" title="GOLANG" alt="GOLANG" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></a></code>
-<code><a href="https://github.com/jpastorm?tab=repositories&language=HTML"><img height="40" title="PYTHON" alt="PYTHON" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a></code>
-<code><a href="https://github.com/jpastorm?tab=repositories&language=HTML"><img height="40" title="PHP" alt="PHP" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"></a></code>
+<code><a href="https://github.com/jpastorm?tab=repositories&language=GO"><img height="40" title="GOLANG" alt="GOLANG" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></a></code>
+<code><a href="https://github.com/jpastorm?tab=repositories&language=PYTHON"><img height="40" title="PYTHON" alt="PYTHON" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a></code>
+<code><a href="https://github.com/jpastorm?tab=repositories&language=PHP"><img height="40" title="PHP" alt="PHP" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"></a></code>
 <code><a href="https://github.com/jpastorm?tab=repositories&language=HTML"><img height="40" title="HTML5" alt="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></a></code>
 <code><a href="https://github.com/jpastorm?tab=repositories&language=CSS"><img height="40" title="CSS3" alt="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></a></code>
 <code><a href="https://github.com/jpastorm?tab=repositories&language=javascript"><img height="36" title="Javascript" alt="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
